@@ -2,7 +2,7 @@ name: 🚀 Despliegue automático de mi portfolio
 
 on:
   push:
-    branches: [ main ]
+    branches: [ prueba ]
 
 permissions:
   contents: read

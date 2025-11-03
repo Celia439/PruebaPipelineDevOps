@@ -1,0 +1,57 @@
+  body {
+            background-color: gainsboro;
+        }
+
+        strong {
+            margin-left: 25%;
+
+        }
+
+        .encabezado {
+            background-color: rgb(244, 255, 213);
+            border-radius: 1em;
+            padding: 1em;
+            text-align: center;
+        }
+
+        .nav {
+            display: flex;
+            margin: 1em;
+            background-color: yellow;
+            border-radius: 1em;
+            padding: 2em;
+        }
+
+        .a {
+            text-shadow: 1px 4px 9px green;
+            margin-left: 50%;
+            background-color: greenyellow;
+            border-radius: 1em;
+            padding: 1em;
+            color: white;
+        }
+
+        .a:hover {
+            background-color: black;
+
+        }
+
+        img {
+            margin-left: 25%;
+            border-radius: 14em;
+            width: 20em;
+        }
+
+        .limon {
+            background-color: darkgoldenrod;
+            border-radius: 2em;
+            padding: 2em;
+        }
+
+        button {
+            background-color: chartreuse;
+            color: rgb(55, 6, 100);
+            border-radius: 2em;
+            margin: 5em;
+            padding: 2em;
+        }
